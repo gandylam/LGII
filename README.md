@@ -1,6 +1,6 @@
 Main Gameplay:
 
-Execise your memory of the words (60 SECONDS)
+Exercise your memory of the words (60 SECONDS)
 Give yourself more time (8 SECONDS) with each correct answer
 
 - Create your own categories, using Redis.
